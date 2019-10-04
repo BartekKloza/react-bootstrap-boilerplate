@@ -11,3 +11,4 @@ Boilerplate made to start new projects without having to clean/configure/install
 ## Notes:
 
 - Remember to change /public/manifest.json
+- ```npm run deploy``` to deploy/sync with AWS S3 bucket
