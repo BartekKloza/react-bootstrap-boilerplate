@@ -1,6 +1,6 @@
 ## My React.js boilerplate app
 
-Boilerplate start new projects without having to configure everything each time...
+Boilerplate made to start new projects without having to clean/configure/install packages after running create-react-app each time...
 
 ## Contains:
 
